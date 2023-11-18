@@ -6,8 +6,6 @@
 - 피아노 등등
 - 모두 화이팅!
 
-![썸네일1](https://github.com/laver94/laver94/assets/115716452/cc780626-ffff-42e5-9f26-cf8aedf227e8)
-
 <!--
 **laver94/laver94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
